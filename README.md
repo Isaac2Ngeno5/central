@@ -1,6 +1,6 @@
 # central
 
-![LOGO](https://github.com/isaac2ngeno5/central/assests/img/logo.png)
+![LOGO](https://github.com/Isaac2Ngeno5/central/blob/master/assets/img/logo.png)
 
 This is sample demo for the kenya pharmaceutical association central branch
 
