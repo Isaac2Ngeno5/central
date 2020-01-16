@@ -3,8 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="493fb061-c8e1-40ac-a7b0-ba8712c57764" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/WhatsApp Image 2020-01-15 at 13.30.53 (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/about-bg2.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/bg/association.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/bg/association.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/association4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/breadcumb-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/dawa1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/join-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/bg/ph.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/upcoming-event/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/upcoming-event/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/upcoming-event/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/upcoming-event/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/upcoming-event/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/upcoming-event/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +34,20 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ShAClpYbwXIeI9zdVcVApKP87O" />
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -51,7 +76,8 @@
       <updated>1572005330702</updated>
       <workItem from="1572005344131" duration="4744000" />
       <workItem from="1579088091928" duration="7789000" />
-      <workItem from="1579156401235" duration="628000" />
+      <workItem from="1579156401235" duration="6164000" />
+      <workItem from="1579166753226" duration="10882000" />
     </task>
     <servers />
   </component>
