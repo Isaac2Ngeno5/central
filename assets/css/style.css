@@ -1251,6 +1251,13 @@ ul {
     background-image: url(../img/bg/association.jpg);
     background-size: cover;
     background-position: center; }
+
+    /* header background for investment tab */
+    .header-area.invest-bg {
+      background-image: url(../img/bg/05.jpeg);
+      background-size: cover;
+      background-position: center; }
+      
   .header-area .slider-all-text {
     text-align: center; }
     .header-area .slider-all-text .title {
